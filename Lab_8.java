@@ -8,8 +8,6 @@ public class Lab_8 {
         daire daire1 = new daire(4);
         daire1.cizimyap();
         daire1.alanhesapla();
-        geometrik_sekil dikdortgen2=new dikdortgen(6, 8);
-        dikdortgen2.cizimyap();
         
     }
 }
